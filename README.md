@@ -1,4 +1,4 @@
-# A React js based Textutils application
+# A React js based News Reading application
 
 ## Set Up
 1. clone the repository
