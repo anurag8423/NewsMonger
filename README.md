@@ -15,3 +15,5 @@
 
 ## Application Screenshots
 ![NewsMonger Loading](https://github.com/anurag8423/NewsMonger/blob/main/Screenshots/Screenshot%202024-01-13%20030554.png?raw=true)
+
+![NewsMonger loaded](https://github.com/anurag8423/NewsMonger/blob/main/Screenshots/newmonger.png?raw=true)
