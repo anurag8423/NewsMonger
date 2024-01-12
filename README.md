@@ -12,3 +12,6 @@
 
 ## Remainder
 ### This app may sometime fail to respond when the daily API request limit is crossed.
+
+## Application Screenshots
+![NewsMonger Loading](https://github.com/anurag8423/NewsMonger/blob/main/Screenshots/Screenshot%202024-01-13%20030554.png?raw=true)
